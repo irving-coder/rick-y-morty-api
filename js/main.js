@@ -1,6 +1,6 @@
 (function(){
     'use strict';
-    
+    // No se registró el último commit
     // var page = 1;
 
     // page.innerHTML = 1;
