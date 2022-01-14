@@ -28,6 +28,10 @@ header h3 a{
     color: rgba(10,10,10,0.8);
 }
 
+#pages{
+    margin: 0 8% 20px;
+}
+
 #articles{
     display: flex;
     flex-direction: row;
